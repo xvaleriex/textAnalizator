@@ -1,4 +1,4 @@
-# textAnalizator
+# textAnalyzer
 
 Text Analyzer console app that greets user, checks if he is between registered users, lets him select what text to analyze,
 and counts general amount of words/uppercase words/lowercase/titlecase/numerical strings,
